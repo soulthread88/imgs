@@ -1,0 +1,58 @@
+{
+ "ep1img01": {
+  "file": "ep1img01.jpg",
+  "credit": "Mohammad Berno / Avash · CC BY 4.0",
+  "url": "https://avash.ir/n/N83",
+  "commons": "https://commons.wikimedia.org/wiki/File:Airstrike_on_the_residential_town_of_Shahid_Boroujerdi_4_Avash.webp",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "original": "Airstrike on the residential town of Shahid Boroujerdi 4 Avash.webp",
+  "date": "Published on 06 Mar 2026 10:53",
+  "size": [
+   1500,
+   1000
+  ]
+ },
+ "ep1img03": {
+  "file": "ep1img03.jpg",
+  "credit": "U.S. Navy (NAVCENT Public Affairs) · Public domain",
+  "url": "https://www.dvidshub.net/image/9542101/uss-spruance-supports-operation-epic-fury",
+  "commons": "https://commons.wikimedia.org/wiki/File:USS_Spruance_launching_Tomahawk_during_Operation_Epic_Fury.jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "original": "USS Spruance launching Tomahawk during Operation Epic Fury.jpg",
+  "date": "2026-02-28",
+  "size": [
+   3840,
+   2560
+  ]
+ },
+ "ep1img02": {
+  "file": "ep1img02.jpg",
+  "credit": "Hossein Golyar / Mehr News Agency · CC BY 4.0",
+  "url": "https://t.me/mehrnews_photo/13200",
+  "commons": "https://commons.wikimedia.org/wiki/File:Effects_of_airstrike_on_Shahid_Borujerdi_Town_(8).jpg",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0",
+  "original": "Effects of airstrike on Shahid Borujerdi Town (8).jpg",
+  "date": "Published on 4 March 2026",
+  "size": [
+   1280,
+   853
+  ]
+ },
+ "ep1sb01": {
+  "file": "ep1sb01.jpg",
+  "credit": "U.S. Navy · Public domain",
+  "url": "https://www.dvidshub.net/image/9559679",
+  "commons": "https://commons.wikimedia.org/wiki/File:USS_Gerald_R_Ford_(CVN_78)_Conducts_Flight_Operations_During_Operation_Epic_Fury_(9559679).jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "original": "USS Gerald R Ford (CVN 78) Conducts Flight Operations During Operation Epic Fury (9559679).jpg",
+  "date": "Taken on 1 March 2026",
+  "size": [
+   3840,
+   2560
+  ]
+ }
+}
