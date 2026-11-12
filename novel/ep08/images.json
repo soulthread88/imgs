@@ -1,0 +1,44 @@
+{
+ "ep8img01": {
+  "file": "ep8img01.jpg",
+  "credit": "Lizzy Shaanan / PikiWiki Israel · CC BY 2.5",
+  "url": "http://www.pikiwiki.org.il?action=gallery&img_id=144939",
+  "commons": "https://commons.wikimedia.org/wiki/File:144939_tel_aviv_-_after_the_fall_of_an_iranian_missile_PikiWiki_Israel.jpg",
+  "license": "CC BY 2.5",
+  "license_url": "https://creativecommons.org/licenses/by/2.5",
+  "original": "144939 tel aviv - after the fall of an iranian missile PikiWiki Israel.jpg",
+  "date": "24.3.2026",
+  "size": [
+   3840,
+   2880
+  ]
+ },
+ "ep8img02": {
+  "file": "ep8img02.jpg",
+  "credit": "U.S. Air Force (DVIDS) · Public domain",
+  "url": "https://www.dvidshub.net/image/9582643",
+  "commons": "https://commons.wikimedia.org/wiki/File:B-52_Stratofortress_Takes_off_during_Operation_Epic_Fury_(9582643).jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "original": "B-52 Stratofortress Takes off during Operation Epic Fury (9582643).jpg",
+  "date": "Taken on 22 March 2026",
+  "size": [
+   3840,
+   2560
+  ]
+ },
+ "ep8sb01": {
+  "file": "ep8sb01.jpg",
+  "credit": "U.S. Navy NAVCENT Public Affairs (DVIDS) · Public domain",
+  "url": "https://www.dvidshub.net/image/9581682",
+  "commons": "https://commons.wikimedia.org/wiki/File:USS_Abraham_Lincoln_(CVN72)_supports_Operation_Epic_Fury_(9581682).jpg",
+  "license": "Public domain",
+  "license_url": "",
+  "original": "USS Abraham Lincoln (CVN72) supports Operation Epic Fury (9581682).jpg",
+  "date": "Taken on 22 March 2026",
+  "size": [
+   3840,
+   2560
+  ]
+ }
+}
